@@ -28,3 +28,10 @@ driver.quit()
 
 # Print the result
 print(element_list)
+
+
+
+
+
+
+
